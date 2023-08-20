@@ -17,5 +17,4 @@ dictionary = {
 "sat":"曇りのち雨",
 "sun":"雷雨",
 }
-dic_item = dictionary.items
-print(dic_item(2))
+print("wed", dictionary["wed"])
