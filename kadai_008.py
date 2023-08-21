@@ -10,3 +10,6 @@ elif var%5==0:
 
 elif var % 15==0: 
   print("FizzBuzz")
+
+else:
+  print(var)
