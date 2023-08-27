@@ -2,4 +2,5 @@ def add_arguments(sum,tax):
   total=sum+tax
   return (total)
   #第1引数に商品の金額、第2引数に消費税
-  add_arguments(100,10)
+  result=add_arguments(5000,500)
+print("商品の合計金額は",result,"です。")
